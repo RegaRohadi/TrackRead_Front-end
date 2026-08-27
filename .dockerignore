@@ -1,0 +1,10 @@
+node_modules
+dist
+dist-ssr
+coverage
+.git
+.github
+*.local
+.env
+.env.*
+!.env.example
